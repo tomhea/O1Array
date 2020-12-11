@@ -51,9 +51,7 @@ This project has a [Website](https://tomhea.github.io/farray/)! containing more 
 * [Advanced Features](https://tomhea.github.io/farray/Advanced-Features.html) - iterator, direct-functions, smaller-blocks, templates
 * Much More!
 
-<html>
   <head>
     <meta name="google-site-verification" content="7z4_hE1aaFh2SORIDRbhD5Oru7wbvaWHZ6oa2Ml_TpQ" />
   </head>
-</html>
 
